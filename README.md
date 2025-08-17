@@ -1,6 +1,7 @@
 # 🥤 BottleCap ($BCAP)
 
-![BottleCap Logo](logo.png)
+![BottleCap Logo](https://i.imgur.com/3BUTSrR.png)<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/cd1917f7-5447-41d2-b3cc-73b4b1d361dd" />
+)
 
 ---
 
